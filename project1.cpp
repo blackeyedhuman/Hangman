@@ -90,6 +90,8 @@ int main()
 			temp+='_';
 
 	}
+
+	// THis is a test commit line fuck you bastards. 
 	//temp.assign(l, '_');
 	NOD = l;
 	string w = " "; //= '\0';
